@@ -923,11 +923,12 @@ Banner Style
   line-height: 70px;
   font-size: 50px;
   margin-bottom: 20px;
+  color: #FFF;
 }
 
 .main-banner .left-content p {
   margin-bottom: 45px;
-  color: #2a2a2a;
+  color: #FFF;
   font-weight: 400;
 }
 
